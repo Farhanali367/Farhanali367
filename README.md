@@ -15,6 +15,8 @@
 
 ---
 
+## 🌐 Connect With Me 
+
 <p align="center">
   <a href="www.linkedin.com/in/mohd-farhan-b18513380">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -52,8 +54,8 @@
 
 🎓 B.Tech Computer Science & Engineering Student  
 💻 Aspiring Software Developer  
-🧠 Learning Data Structures & Algorithms  
-🐍 Exploring Python & Backend Development  
+🧠 Intrested in Machine Learning 
+🐍 Exploring DSA   
 🚀 Building Real-World Projects  
 🐙 Learning Git & GitHub
 
