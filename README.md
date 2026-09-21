@@ -18,7 +18,7 @@
 ## 🌐 Connect With Me 
 
 <p align="center">
-  <a href="www.linkedin.com/in/mohd-farhan-b18513380">
+  <a href="https://www.linkedin.com/in/mohd-farhan-b18513380/">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
