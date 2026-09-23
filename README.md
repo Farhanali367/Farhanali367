@@ -34,13 +34,17 @@
     <img src="https://img.shields.io/badge/CODECHEF-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://codeforces.com/profile/Farhan_0">
+  <a href="https://https://codolio.com/profile/Mohd_Farhan">
     <img src="https://img.shields.io/badge/CODOLIO-111111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://www.geeksforgeeks.org/profile/mohdfarhalfib">
     <img src="https://img.shields.io/badge/GEEKSFORGEEKS-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
+ &nbsp;
+ <a href="https://codeforces.com/profile/Farhan_0">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+</a>
 </p>
 
 <hr>
